@@ -1,0 +1,4 @@
+This file is a simple text file with multiple lines.
+
+#test
+The file also includes a few blank lines.

@@ -1,0 +1,11 @@
+Year: 1960, Average Rainfall in Inches: 12.02, Percentage Increase Over Mean: 74.75%
+Year: 1964, Average Rainfall in Inches: 10.70, Percentage Increase Over Mean: 55.56%
+Year: 1973, Average Rainfall in Inches: 20.48, Percentage Increase Over Mean: 197.75%
+Year: 1983, Average Rainfall in Inches: 13.13, Percentage Increase Over Mean: 90.89%
+Year: 1984, Average Rainfall in Inches: 18.67, Percentage Increase Over Mean: 171.43%
+Year: 1986, Average Rainfall in Inches: 11.05, Percentage Increase Over Mean: 60.65%
+Year: 1988, Average Rainfall in Inches: 14.27, Percentage Increase Over Mean: 107.46%
+Year: 1991, Average Rainfall in Inches: 10.47, Percentage Increase Over Mean: 52.22%
+Year: 1996, Average Rainfall in Inches: 12.06, Percentage Increase Over Mean: 75.33%
+Year: 1998, Average Rainfall in Inches: 11.35, Percentage Increase Over Mean: 65.01%
+Year: 2006, Average Rainfall in Inches: 14.28, Percentage Increase Over Mean: 107.61%

@@ -1,0 +1,15 @@
+Did AI help? How?
+
+It helped in editing code and explaining the logic behind functions if I got them wrong the first time. 
+
+Did AI get in the way? How?
+
+AI didn't really get in the way but sometimes it would edit my code using code I didn't understand. I had to revise my prompts a bit 
+
+What does "Use AI responsibly" mean to you?
+
+Using it to edit your own work or explain new concepts. You should always fully understand the code that you get from AI, if not don't use it. 
+
+Is there ever a time when you might ask AI to generate code?
+
+Maybe to write tedious or repetative code but even then I would need to make sure that it is correct and that I understand it. 
